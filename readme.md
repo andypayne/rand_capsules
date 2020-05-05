@@ -4,5 +4,4 @@ Made with [Processing](https://processing.org/).
 
 Keys:
 - `space` to regenerate
-- `x` to save `rand_capsules.pdf` and exit
-
+- `x` to save [rand_capsules.pdf](rand_capsules.pdf) and exit
